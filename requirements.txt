@@ -3,3 +3,4 @@ plotly==5.19.0
 pandas==2.2.1
 beautifulsoup4==4.12.3
 transformers==4.38.2
+tensorflow==2.16.1
